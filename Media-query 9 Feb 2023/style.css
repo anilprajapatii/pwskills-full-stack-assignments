@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.demo-page{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    text-align: center;
+}
+h2{
+    padding-top: 30px;
+}
+@media  screen and (max-width:1440px) {
+    .demo-page{
+        background-color: green;
+    }
+}
+@media  screen and (max-width:1024px) {
+    .demo-page{
+        background-color: rgb(219, 180, 7);
+    }
+    h2{
+        font-size: 3.5rem;
+    }
+}
+@media  screen and (max-width:768px) {
+    .demo-page{
+        background-color: aqua;
+    }
+}
+@media  screen and (max-width:425px) {
+    .demo-page{
+        background-color: rgb(215, 3, 3);
+    }
+}
