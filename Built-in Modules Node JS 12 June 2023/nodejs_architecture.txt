@@ -1,0 +1,1 @@
+Node.js runs on Chrome's V8 JavaScript engine. it is used for backend developmentNode js has distinct advantages. Its asynchronous model and non-blocking I/O operation improve the scalability and performance of web applications built on other frameworks. Node js can easily handle multiple client requests without requiring multiple threads, consuming less memory and resources. 

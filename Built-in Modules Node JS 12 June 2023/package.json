@@ -1,0 +1,11 @@
+{
+  "name": "12-jun-23-assignment",
+  "version": "1.0.0",
+  "description": "Built-in modules assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
