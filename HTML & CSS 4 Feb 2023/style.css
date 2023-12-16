@@ -21,8 +21,8 @@ ul img{
     width: 130px;
     
 }
-button{
-   margin-left: 600px;
+ul button{
+   margin-left: 630px;
    background-color: rgb(145, 94, 249);
    padding: 10px 13px;
    border-radius: 5px;
@@ -39,15 +39,31 @@ button{
 .left{
     display: flex;
     flex-direction: column;
-    gap: 20px;
-    justify-content: center ;
+    gap: 30px;
+    justify-content: center;
+    width:45%;
+}
+.heading-text{
+   font-weight: bold;
+}
+.description{
+    color: gray;
+}
+span{
+    color: rgb(145, 94, 249);
 }
 .right{
- 
+    width: 55%;
 }
 .btn{
-   
+    background-color: rgb(145, 94, 249);
+    padding: 10px 13px;
+    border-radius: 7px;
+    border: none;
+    font-weight: bold;
+    color: white;
+    width: 160px;
 }
 .right img{
-  width: 600px;
+  width: 100%;
 }
