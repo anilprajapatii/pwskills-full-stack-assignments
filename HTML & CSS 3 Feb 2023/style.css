@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/pexels-maxyne-barcel-10402282 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    margin: auto;
+    color: rgb(250, 226, 9);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+img{
+    width: 135px;
+}
+.orderBtn{
+    background-color: rgb(210, 66, 66);
+    border: none;
+    padding: 5px 22px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+
+}
+.hero{
+    font-family: "Dela Gothic One", cursive;
+    color: #ffc233;
+    font-weight: bold;
+    line-height: 110px;
+    font-size: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 70%;
+    justify-content: center;
+    text-align: center;
+}
+.SecBtn{
+     width: 250px;
+     height: 50px;
+     font-size: 20px;
+     font-weight: bolder;
+}
+.scroll{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    
+}
+.scroll img{
+    margin-right: 30px;
+}
