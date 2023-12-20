@@ -1,0 +1,11 @@
+1. What is HTML ?
+Ans : HTML (HyperText Markup Language) is the standard language used to create web pages and structures the content on a website. It consists of a set of elements and tags that define the various parts of a webpage, such as headings, paragraphs, images, links, and more.
+
+2. What is CSS ?
+Ans : CSS (Cascading Style Sheets) is a style sheet language used for describing the presentation and layout of HTML elements on a webpage. It allows web developers to control the visual aspects like colors, fonts, spacing, and positioning, enhancing the overall look and feel of the website.
+
+3. Why did javascript come into the picture ? 
+Ans : JavaScript entered the scene to add interactivity and dynamism to web pages. Initially introduced as a scripting language for web browsers, JavaScript enabled developers to create dynamic content, handle user interactions, validate forms, and modify the webpage's behavior in real-time, enhancing the user experience significantly.
+
+4. History of Javascript and EcmaScript ? explain in your own words.
+Ans : JavaScript was created by Brendan Eich at Netscape in 1995. Over time, it evolved, leading to the standardization of its specifications by Ecma International. ECMAScript is the official name for the standard JavaScript language. Different versions of ECMAScript have been released, each bringing new features and improvements. For instance, ES6 (ECMAScript 2015) introduced significant enhancements like arrow functions, classes, let and const keywords, making JavaScript more powerful and expressive for developers. The continuous evolution of ECMAScript aims to enhance JavaScript's capabilities and maintain its relevance in modern web development.
