@@ -1,0 +1,18 @@
+1. List all the tools yo might use as a web developer.
+Ans : As a web developer, you'll likely use a variety of tools to design, develop, test, and deploy websites. Here's a comprehensive list of tools that are commonly used:
+Text Editors/IDEs: Visual Studio Code, Sublime Text, Atom
+Version Control: Git, GitHub, GitLab
+Web Browsers: Chrome, Firefox, Safari, Edge
+Front-End: HTML/CSS preprocessors, JavaScript frameworks (React, Angular, Vue.js)
+Back-End: Node.js, Python, Ruby, PHP, MySQL, MongoDB
+API Testing: Postman, Insomnia
+Package Managers: npm, Yarn
+Task Runners/Build Tools: Webpack, Gulp, Grunt
+Testing/Debugging: Jest, Selenium, ESLint
+CMS: WordPress, Drupal, Joomla
+Deployment/Hosting: Heroku, AWS, Netlify, GitHub Pages
+Design Tools: Adobe XD, Sketch, Figma
+Collaboration: Slack, Trello, Jira
+
+2. What are some of the features of PW Skills Online Lab? Explain how they are useful.
+Ans : PW Skills Lab is an innovative online IDE designed for seamless coding experiences without the hassle of installations. This platform offers a range of benefits tailored for developers, providing a comprehensive coding environment accessible through web browsers. With PW Skills Lab, users can write, test, and debug code in various programming languages instantly. Its cloud-based nature ensures easy access from anywhere, promoting collaboration among teams without setup complexities. The platform's user-friendly interface, coupled with features like real-time collaboration, and instant feedback, empowers developers to focus solely on their code without worrying about local installations or compatibility issues.
