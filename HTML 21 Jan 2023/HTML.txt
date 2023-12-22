@@ -1,0 +1,38 @@
+1. What are inline and block elements in HTML and the difference between them? Name a few inline elements and block elements.
+Ans : Inline vs Block Elements :
+   Inline elements are elements that do not start on a new line and only take up the necessary width. Examples include "<span>", "<a>", "<strong>", "<em>", "<img>", and "<input>". Block elements, however, start on a new line and occupy the full width available. Examples of block elements are "<div>", "<p>", "<h1>" to "<h6>", "<ul>", "<li>", and "<table>".
+
+2. How to work with images in HTML and explain in detail <img /> tag important attributes.
+Ans :  Working with Images in HTML - "<img />" Tag Attributes:
+   The "<img />" tag is used to insert images. Its essential attributes are:
+   - "src": Specifies the image URL.
+   - "alt": Provides alternative text for accessibility and when the image cannot load.
+   - "width" and "height": Determine the image's dimensions on the page.
+   - "title": Offers tooltip text when hovering over the image.
+   - "loading": Specifies the image loading behavior.
+   - "srcset" and "sizes": For responsive design, providing different image sources based on device resolution and screen size.
+
+3. How to create lists in HTML?
+Ans : Creating Lists in HTML:
+   Lists in HTML can be created using "<ul>" (unordered lists) for bullet points, "<ol>" (ordered lists) for numbered items, and "<li>" for list items. Example:
+   html
+   <ul>
+     <li>Item 1</li>
+     <li>Item 2</li>
+     <li>Item 3</li>
+   </ul>
+
+4. How to interlink web pages and navigate people to other websites?
+Ans : Interlinking Web Pages and Navigating to Other Websites:
+   To interlink pages within a website, use anchor tags "<a>" with relative or absolute paths in the "href" attribute:
+   
+   html
+   <a href="path/to/other/page.html">Link Text</a>
+   
+   For external links, include the full URL:
+   html
+   <a href="https://www.example.com">External Link Text</a>
+  
+   Use the "target" attribute to specify how the linked content will open:
+   html
+   <a href="url" target="_blank">Link Text</a> <!-- Opens in a new tab/window -->
