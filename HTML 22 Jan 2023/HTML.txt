@@ -1,0 +1,44 @@
+1. Explain the Table and its properties.
+Ans : Table and its Properties:
+   Tables in HTML are used to display data in rows and columns. Key properties and elements include:
+   - "<table>": Defines a table.
+   - "<tr>": Represents a table row.
+   - "<td>": Represents a table cell (data).
+   - "<th>": Represents a table header cell.
+   - "border": Specifies the border size around the table or its cells.
+   - "cellpadding" and "cellspacing": Control the space within cells and between cells, respectively.
+   - "colspan" and "rowspan": Merge columns or rows across multiple cells.
+   - "<caption>": Provides a title or caption for the table.
+
+2. Explain all Media elements and how they work.
+Ans : Media Elements and How They Work:
+   HTML provides various media elements for embedding different types of media content:
+   - "<img>": Displays images.
+   - "<audio>": Embeds audio content with controls for playback.
+   - "<video>": Embeds video content with controls for playback.
+   - "<source>": Used inside "<audio>" or "<video>" to specify multiple media sources for compatibility across different browsers.
+   These elements require appropriate attributes like "src" to specify the source, "alt" for alternative text, and various other attributes depending on the media type.
+
+
+3. What is Get and Post in Form?
+Ans :  Get and Post in Form:
+   - GET: Sends form data as part of the URL query string. Suitable for retrieving data from a server. Limited data transfer due to URL length restrictions. Visible in the URL.
+   - POST: Sends form data in the body of the HTTP request. Suitable for sensitive or large data. Not limited by URL length restrictions. Not visible in the URL.
+
+
+4. List all the input types we have in forms.
+Ans :  Input Types in Forms:
+   HTML provides various input types to collect different types of user data:
+   - "text": Single-line text input.
+   - "password": Password input (characters are masked).
+   - "email": Input for email addresses.
+   - "number": Input for numeric values.
+   - "checkbox": Checkbox for selecting multiple options.
+   - "radio": Radio button for selecting one option from multiple choices.
+   - "file": Allows users to upload files.
+   - "submit": Button to submit the form data.
+   - "reset": Button to reset form fields to their default values.
+   - "date", "time", "datetime-local": Input types for date and time selection.
+   - "color": Input for selecting a color.
+   - "range": Input for a range of values (slider).
+
