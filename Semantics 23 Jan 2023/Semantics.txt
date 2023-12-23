@@ -1,0 +1,18 @@
+1. What are the new things introduced in HTML5?
+Ans : HTML5 brought several new features and improvements to web development. Some of the key introductions include:
+   - Semantic structural elements: New semantic tags like "<header>", "<footer>", "<article>", "<section>", "<nav>", "<aside>", and "<main>" that provide clearer definitions to different parts of a web page.
+   - Native support for audio and video: "<audio>" and "<video>" tags enable embedding multimedia content without needing third-party plugins.
+   - Form enhancements: Addition of input types like email, url, date, number, etc., and new attributes for validation and accessibility.
+   - Canvas and SVG elements: "<canvas>" for rendering graphics and animations dynamically and "<svg>" for scalable vector graphics.
+
+2. What are semantic tags? Give a couple of examples.
+Ans : Semantic tags in HTML5 are elements that provide meaning to the content they enclose, aiding in better structuring and comprehension for both browsers and developers. Examples include:
+   - "<header>": Defines a header section typically containing introductory content or navigational links.
+   - "<article>": Represents an independent, self-contained piece of content within a page, like a blog post or a news article.
+
+3. List some uses of semantic tags.
+Ans : Uses of semantic tags include:
+   - Improved accessibility: Assistive technologies can better understand the structure of the content, aiding users with disabilities.
+   - Search engine optimization: Clearer structure provided by semantic tags can enhance search engine rankings by enabling better understanding of content.
+   - Easier website maintenance: Semantic tags offer clearer organization, making it simpler for developers to understand and maintain code.
+   - Enhanced readability: Helps both developers and other stakeholders to comprehend the layout and purpose of different sections within a webpage more intuitively.
