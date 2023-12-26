@@ -1,0 +1,12 @@
+1. Why is it called a pseudo-class?
+Ans : The term "pseudo-class" in CSS refers to a class-like attribute that is applied to certain elements based on specific conditions or states rather than being explicitly defined in the HTML markup. It's called "pseudo" because it imitates the behavior of a class but doesn't function the same way. Pseudo-classes target elements when they're in a certain state (like :hover, :active, :focus) or based on structural positions (:first-child, :nth-child) without the need for additional classes.
+
+2. What are gradients in CSS?
+Ans : Gradients in CSS are used to create smooth transitions between two or more specified colors. They allow for the gradual blending of colors across an element's background or border, creating visual effects that range from simple fades to complex patterns. CSS gradients come in two main types: linear gradients, which transition colors along a straight line, and radial gradients, where colors transition radially from a defined center point outward.
+
+3. What are different types of transitions in CSS?
+Ans : CSS transitions provide a way to smoothly animate changes in CSS properties over a specified duration. There are different types of transitions:
+   - Property Transitions: These involve changing the value of a specific CSS property (like color, width, height) over time.
+   - Timing Function Transitions: Timing functions (such as ease, linear, ease-in-out) determine the pace of the transition, affecting the rate of change throughout the animation.
+   - Delayed Transitions: Transition delays allow designers to specify a waiting period before the transition effect starts.
+   - Transition shorthand: CSS provides a shorthand property, 'transition', that combines transition properties into a single line, making it easier to define multiple aspects of a transition simultaneously.
