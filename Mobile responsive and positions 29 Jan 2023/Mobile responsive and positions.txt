@@ -1,0 +1,13 @@
+1. What is position property in CSS and its type?
+Ans : The position property in CSS determines how an element is positioned within its parent container. There are five types of position values: 
+   a. Static: The default positioning; elements flow in the normal document layout.
+   b. Relative: Positioned relative to its normal position; it can be shifted using top, bottom, left, and right properties.
+   c. Absolute: Positioned relative to its closest positioned ancestor (or the document if none); it's removed from the normal document flow.
+   d. Fixed: Positioned relative to the viewport; it remains in the same position even when the page is scrolled.
+   e. Sticky: Acts as a hybrid of relative and fixed positioning; it's based on the user's scroll position.
+
+2. How many types of positioning are there in CSS?
+Ans : CSS offers four primary positioning types: static, relative, absolute, and fixed. Additionally, sticky positioning was introduced to enhance the capabilities by combining aspects of relative and fixed positioning, allowing an element to stick to a specific position as the user scrolls.
+
+3. What is Z-index and why to use it?
+Ans : Z-index is a CSS property that controls the stacking order of elements along the z-axis (depth), particularly helpful when elements overlap. It only works on positioned elements (those with a position value other than static). Higher z-index values place elements closer to the top of the stacking order, making them appear in front of elements with lower z-index values. It's crucial for managing the layering of elements, especially in complex layouts where elements might overlap and need to be visually organized.
