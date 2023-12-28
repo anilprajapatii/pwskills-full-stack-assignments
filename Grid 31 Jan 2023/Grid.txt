@@ -1,0 +1,12 @@
+1. Whatis the grid?
+Ans : The grid is a layout system in CSS that enables the creation of complex web designs by organizing content into rows and columns. It allows precise placement and alignment of elements within a webpage, offering control over both horizontal and vertical layouts.
+
+2. What is the difference between Flex and grid?
+Ans : The main difference between Flexbox and CSS Grid lies in their layout models. Flexbox is a one-dimensional layout system, primarily focusing on arranging items in a single row or column, providing flexibility in the arrangement of elements along a single axis. On the other hand, CSS Grid is a two-dimensional layout system, allowing the creation of rows and columns simultaneously, enabling more complex layouts with both horizontal and vertical control.
+
+
+3. How can you define rows and columns for your grid?
+Ans : Defining rows and columns in a grid involves utilizing the "grid-template-rows" and "grid-template-columns" properties in CSS. These properties allow you to specify the size, length, and structure of rows and columns within the grid layout. You can use various units like pixels, percentages, or fractions (fr) to define the size of rows and columns, providing the necessary structure to position and organize grid items.
+
+4. List any two properties of the grid item and grid container.
+Ans :  Two key properties of the grid item are "grid-column" and "grid-row". These properties determine the placement of an item within the grid by specifying its starting and ending positions along the columns and rows. Meanwhile, for the grid container, important properties include "display: grid" to establish a grid context, and "grid-template-areas" which allows the arrangement of grid items by assigning them to named grid areas, facilitating a more visual and manageable approach to building complex layouts.
