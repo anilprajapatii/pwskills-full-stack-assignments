@@ -54,7 +54,7 @@ ul{
 }
 .imgages{
     width: 50%;
-    height: 65%;
+    height: auto;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -89,3 +89,74 @@ ul{
     width: 40px;
     height: 40px;
 }
+@media screen and (max-width: 480px) {
+    .navbar{
+        display: none;
+    }
+    .hero{
+
+        flex-direction: column;
+        height: 500px;
+
+    }
+    .text{
+        width: 40%;
+        height: 30%;
+        font-size: 1rem;
+        margin: auto;
+        line-height: 30px;
+        text-align: center;
+
+    }
+    .image{
+ 
+        width: 100%; 
+        height: 250px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .image img{
+        width: 60%;  
+        margin-top:0;
+    }
+    .content{
+ 
+    }
+    .Projects{
+        margin-top: 40px;
+ 
+        font-size: 25px;
+    }
+    .imgages{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-left: 0px;
+        height: auto;
+    }
+    .imgages img{   
+        width: 150px;
+        height: 150px;
+        margin-top: 0;    
+    }
+    .footer{
+        width: 100%;
+        height: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 40px;
+ 
+    }
+    .icons{
+       
+    }
+    .footer img{
+        width: 30px;
+        height: 30px;
+        margin-bottom: 40px;
+        
+    }
+    
+  }
